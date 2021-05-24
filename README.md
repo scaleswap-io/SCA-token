@@ -5,6 +5,9 @@ Scaleswap Token (SCA)
 Collection of Ethereum smart contracts for the
 [Scaleswap](https://scaleswap.io) platform token
 
+This is the official SCA token address:
+https://github.com/scaleswap-io/SCA-token
+
 # Technology
 
 This project uses [Truffle framework](http://truffleframework.com/) and the smart
