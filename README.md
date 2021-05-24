@@ -6,7 +6,7 @@ Collection of Ethereum smart contracts for the
 [Scaleswap](https://scaleswap.io) platform token
 
 This is the official SCA token address:
-https://github.com/scaleswap-io/SCA-token
+https://etherscan.io/token/0x4791143576c375919d086c35d989feff61d2c390
 
 # Technology
 
