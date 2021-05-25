@@ -10,7 +10,7 @@ https://etherscan.io/token/0x4791143576c375919d086c35d989feff61d2c390
 
 # Technology
 
-This project uses [Truffle framework](http://truffleframework.com/) and the smart
+This project uses [Hardhat framework](https://hardhat.org/) and the smart
 contracts are written in Solidity language (version 0.8.3).
 The token contract uses the ERC20 standard with a fixed supply and burnable functions.
 
@@ -53,7 +53,7 @@ essential for distribution, like:
  * functions have been added to mitigate the well-known issues around setting
  * allowances. See {IERC20-approve}.
 
-##Burning
+## Burning
 /**
  * @dev {ERC20} token, including:
  *
@@ -68,9 +68,26 @@ essential for distribution, like:
  */
 
 
-##Fixed Supply
+## Fixed Supply
     /**
      * @dev Mints `initialSupply` amount of token and transfers them to `owner`.
      *
      * See {ERC20-constructor}.
      */
+
+
+## Build instructions:
+```sh
+npm i
+npm run build
+```
+
+## Test instructions:
+```sh
+npm run test
+```
+
+## Deploy instructions:
+```sh
+npm run deploy --{network}
+```
