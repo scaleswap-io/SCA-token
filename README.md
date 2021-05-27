@@ -8,6 +8,9 @@ Collection of Ethereum smart contracts for the
 This is the official SCA token address:
 https://etherscan.io/token/0x4791143576c375919d086c35d989feff61d2c390
 
+# Security Audit by Hacken.io
+https://hacken.io/wp-content/uploads/2021/05/ScaleSwap_27052021SCAudit_Report.pdf
+
 # Technology
 
 This project uses [Hardhat framework](https://hardhat.org/) and the smart
