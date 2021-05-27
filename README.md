@@ -1,4 +1,4 @@
-SCA Token ERC20 Contract
+# SCA Token ERC20 Contract
 Scaleswap Token (SCA)
 ---
 
